@@ -10,6 +10,6 @@
     - Installation
     - Runs on Graal
     - Supports Polyglot
-    - Additional Resources
+    - Sources and Resources
 5.  Fill in details in _{language name}.md_
 6.  Open a pull request

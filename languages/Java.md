@@ -41,6 +41,6 @@ javac Polyglot.java
 java Polyglot
 ```
 
-## Additional Resources
+## Sources and Resources
 
 - <https://www.graalvm.org/docs/reference-manual/languages/jvm>

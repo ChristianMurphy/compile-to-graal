@@ -20,8 +20,8 @@ lli --lib $(rustc --print sysroot)/lib/libstd-* hello-rust.bc
 
 ## Supports Polyglot
 
-:no_entry: Not supported
+:grey_question: Unknown
 
-## Additional Resources
+## Sources and Resources
 
 - <https://www.graalvm.org/docs/reference-manual/languages/llvm/#running-rust>

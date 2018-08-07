@@ -36,7 +36,7 @@ print(array[3L])
 Rscript --jvm --polyglot polyglot.R
 ```
 
-## Additional Resources
+## Sources and Resources
 
 - <https://www.graalvm.org/docs/reference-manual/languages/r>
 

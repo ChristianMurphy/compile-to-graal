@@ -20,4 +20,6 @@ mx erl -independent -file hello-world.erl -mf hello
 
 :grey_question: Unknown
 
-## Additional Resources
+## Sources and Resources
+
+- <https://github.com/baratharon/graal-erl>

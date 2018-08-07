@@ -32,6 +32,6 @@ console.log(array[2]);
 js --jvm --polyglot polyglot.js
 ```
 
-## Additional Resources
+## Sources and Resources
 
 - <https://www.graalvm.org/docs/reference-manual/languages/js>

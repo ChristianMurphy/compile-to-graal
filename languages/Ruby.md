@@ -36,7 +36,7 @@ print(array[2])
 ruby --polyglot --jvm polyglot.rb
 ```
 
-## Additional Resources
+## Sources and Resources
 
 - <https://www.graalvm.org/docs/reference-manual/languages/ruby>
 

@@ -13,7 +13,7 @@ Discover what languages can run on the Graal VM platform
 | [Python][]     | :ballot_box_with_check: | :ballot_box_with_check: |
 | [R][]          | :ballot_box_with_check: | :ballot_box_with_check: |
 | [Ruby][]       | :ballot_box_with_check: | :ballot_box_with_check: |
-| [Rust][]       | :ballot_box_with_check: | :no_entry:              |
+| [Rust][]       | :ballot_box_with_check: | :grey_question:         |
 
 ### Key
 
