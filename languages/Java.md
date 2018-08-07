@@ -4,6 +4,10 @@
 
 <https://github.com/oracle/graal>
 
+## Installation
+
+Java support comes built in with Graal.
+
 ## Runs on Graal
 
 :ballot_box_with_check: Yes
