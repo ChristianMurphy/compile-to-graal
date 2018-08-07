@@ -8,6 +8,7 @@ Discover what languages can run on the Graal VM platform
 | -------------- | ----------------------- | ----------------------- |
 | [Java][]       | :ballot_box_with_check: | :ballot_box_with_check: |
 | [JavaScript][] | :ballot_box_with_check: | :ballot_box_with_check: |
+| [Python][]     | :ballot_box_with_check: | :ballot_box_with_check: |
 | [R][]          | :ballot_box_with_check: | :ballot_box_with_check: |
 | [Ruby][]       | :ballot_box_with_check: | :ballot_box_with_check: |
 
@@ -28,5 +29,6 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 [java]: languages/Java.md
 [javascript]: languages/JavaScript.md
+[python]: languages/Python.md
 [r]: languages/R.md
 [ruby]: languages/Ruby.md
