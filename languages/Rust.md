@@ -4,6 +4,8 @@
 
 <https://github.com/graalvm/sulong>
 
+<https://www.rust-lang.org>
+
 ## Installation
 
 LLVM runtime support comes built in with Graal.
