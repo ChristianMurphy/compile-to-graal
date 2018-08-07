@@ -19,3 +19,5 @@ mx erl -independent -file hello-world.erl -mf hello
 ## Supports Polyglot
 
 :grey_question: Unknown
+
+## Additional Resources

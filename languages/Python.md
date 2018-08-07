@@ -33,4 +33,8 @@ print(array[2])
 graalpython --polyglot --jvm polyglot.py
 ```
 
+## Additional Resources
+
+- <https://www.graalvm.org/docs/reference-manual/languages/python>
+
 [graal updater]: https://www.graalvm.org/docs/reference-manual/graal-updater

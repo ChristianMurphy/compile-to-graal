@@ -36,4 +36,8 @@ print(array[3L])
 Rscript --jvm --polyglot polyglot.R
 ```
 
+## Additional Resources
+
+- <https://www.graalvm.org/docs/reference-manual/languages/r>
+
 [graal updater]: https://www.graalvm.org/docs/reference-manual/graal-updater

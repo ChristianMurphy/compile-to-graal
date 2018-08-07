@@ -36,4 +36,8 @@ print(array[2])
 ruby --polyglot --jvm polyglot.rb
 ```
 
+## Additional Resources
+
+- <https://www.graalvm.org/docs/reference-manual/languages/ruby>
+
 [graal updater]: https://www.graalvm.org/docs/reference-manual/graal-updater

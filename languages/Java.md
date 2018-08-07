@@ -40,3 +40,7 @@ class Polyglot {
 javac Polyglot.java
 java Polyglot
 ```
+
+## Additional Resources
+
+- <https://www.graalvm.org/docs/reference-manual/languages/jvm>

@@ -41,3 +41,7 @@ int main() {
 clang -g -O1 -c -emit-llvm -I$GRAALVM_HOME/jre/languages/llvm polyglot.c
 lli --polyglot --jvm polyglot.bc
 ```
+
+## Additional Resources
+
+- <https://www.graalvm.org/docs/reference-manual/languages/llvm>
