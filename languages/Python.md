@@ -6,7 +6,7 @@
 
 ## Installation
 
-JavaScript support comes built in with Graal.
+Python support comes built in with Graal.
 
 ## Runs on Graal
 
