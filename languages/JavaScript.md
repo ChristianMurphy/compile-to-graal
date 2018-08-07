@@ -29,5 +29,5 @@ console.log(array[2]);
 ```
 
 ```shell
-js --jvm polyhloy.js
+js --jvm --polyglot polyglot.js
 ```
