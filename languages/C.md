@@ -4,6 +4,8 @@
 
 <https://github.com/graalvm/sulong>
 
+<https://github.com/llvm-mirror/clang>
+
 ## Installation
 
 C support comes built in with Graal.
