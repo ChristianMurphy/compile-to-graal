@@ -4,9 +4,9 @@ Discover what languages can run on the Graal VM platform
 
 ## Languages
 
-| Language                 | Runs on Graal           | Supports Polyglot       |
-| ------------------------ | ----------------------- | ----------------------- |
-| [Java](language/Java.md) | :ballot_box_with_check: | :ballot_box_with_check: |
+| Language                  | Runs on Graal           | Supports Polyglot       |
+| ------------------------- | ----------------------- | ----------------------- |
+| [Java](languages/Java.md) | :ballot_box_with_check: | :ballot_box_with_check: |
 
 ### Key
 
