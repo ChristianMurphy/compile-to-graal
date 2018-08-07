@@ -44,3 +44,4 @@ java Polyglot
 ## Sources and Resources
 
 - <https://www.graalvm.org/docs/reference-manual/languages/jvm>
+- <https://www.graalvm.org/docs/reference-manual/polyglot>

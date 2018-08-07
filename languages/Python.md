@@ -36,5 +36,6 @@ graalpython --polyglot --jvm polyglot.py
 ## Sources and Resources
 
 - <https://www.graalvm.org/docs/reference-manual/languages/python>
+- <https://www.graalvm.org/docs/reference-manual/polyglot>
 
 [graal updater]: https://www.graalvm.org/docs/reference-manual/graal-updater

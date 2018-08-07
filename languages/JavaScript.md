@@ -35,3 +35,4 @@ js --jvm --polyglot polyglot.js
 ## Sources and Resources
 
 - <https://www.graalvm.org/docs/reference-manual/languages/js>
+- <https://www.graalvm.org/docs/reference-manual/polyglot>

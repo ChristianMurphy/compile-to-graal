@@ -39,5 +39,6 @@ ruby --polyglot --jvm polyglot.rb
 ## Sources and Resources
 
 - <https://www.graalvm.org/docs/reference-manual/languages/ruby>
+- <https://www.graalvm.org/docs/reference-manual/polyglot>
 
 [graal updater]: https://www.graalvm.org/docs/reference-manual/graal-updater

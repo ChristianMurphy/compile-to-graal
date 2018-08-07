@@ -39,5 +39,6 @@ Rscript --jvm --polyglot polyglot.R
 ## Sources and Resources
 
 - <https://www.graalvm.org/docs/reference-manual/languages/r>
+- <https://www.graalvm.org/docs/reference-manual/polyglot>
 
 [graal updater]: https://www.graalvm.org/docs/reference-manual/graal-updater
