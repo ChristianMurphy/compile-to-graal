@@ -7,6 +7,7 @@ Discover what languages can run on the Graal VM platform
 | Language       | Runs on Graal           | Supports Polyglot       |
 | -------------- | ----------------------- | ----------------------- |
 | [C][]          | :ballot_box_with_check: | :ballot_box_with_check: |
+| [Erlang][]     | :ballot_box_with_check: | :grey_question:         |
 | [Java][]       | :ballot_box_with_check: | :ballot_box_with_check: |
 | [JavaScript][] | :ballot_box_with_check: | :ballot_box_with_check: |
 | [Python][]     | :ballot_box_with_check: | :ballot_box_with_check: |
@@ -29,6 +30,7 @@ Discover what languages can run on the Graal VM platform
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0).
 
 [c]: languages/C.md
+[erlang]: languages/Erlang.md
 [java]: languages/Java.md
 [javascript]: languages/JavaScript.md
 [python]: languages/Python.md
