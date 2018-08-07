@@ -1,15 +1,15 @@
-# R
+# Ruby
 
 ## Repository
 
-<https://github.com/oracle/fastr>
+<https://github.com/oracle/truffleruby>
 
 ## Installation
 
-R language is included in [Graal updater][].
+Ruby language is included in [Graal updater][].
 
 ```shell
-gu install R
+gu install ruby
 ```
 
 ## Runs on Graal
@@ -17,7 +17,7 @@ gu install R
 :ballot_box_with_check: Yes
 
 ```shell
-Rscript hello-world.r
+ruby hello-world.rb
 ```
 
 ## Supports Polyglot
@@ -26,14 +26,14 @@ Rscript hello-world.r
 
 Example integration with Java
 
-```R
-array <- new("int[]", 4)
-array[3L] <- 42
-print(array[3L])
+```ruby
+array = Java.type('int[]').new(4)
+array[2] = 42
+print(array[2])
 ```
 
 ```shell
-Rscript --jvm --polyglot polyglot.R
+ruby --polyglot --jvm polyglot.rb
 ```
 
 [graal updater]: https://www.graalvm.org/docs/reference-manual/graal-updater
